@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/marloth-tech.com"
+                 "value":"marloth-tech.com"
                 }],
          "type":"tilelayer",
          "visible":true,
